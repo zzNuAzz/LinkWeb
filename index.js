@@ -7,6 +7,6 @@
     <title>Rita-Ryuunosuke Link</title>
 </head>
 <body>
-    <a href="https://www.facebook.com/SoNguyenTo216"> My facebook profile </a>
+    <a href="https://www.facebook.com/SoNguyenTo216" style="text-decoration: none"> My facebook profile </a>
 </body>
 </html>
